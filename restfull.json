@@ -1,0 +1,12 @@
+{
+    "repoName": "This",
+    "repoDescription": "is",
+    "framework": "sails",
+    "database": "mongo",
+    "schemas": [
+        {
+            "name": "Update-Me",
+            "attributes": []
+        }
+    ]
+}
